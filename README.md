@@ -8,6 +8,14 @@ React
 
 TailwindCSS
 
+Back-end (server/)
+
+Node.js
+
+Docker
+
+Docker Compose
+
 ⚙️ Como rodar o projeto
 🔧 Pré-requisitos
 
