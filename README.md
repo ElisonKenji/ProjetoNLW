@@ -45,17 +45,8 @@ O front-end ficará disponível em:
 
 ✅ Banco de dados relacional com migrations
 
-📸 Demonstração
-
-(Adicione prints da interface ou até um GIF mostrando o fluxo do app)
-
 🛠️ Melhorias
  Criei a aba de Tags para ajudar na procura e na organização das areas das perguntas, e a opção de enviar por texto a resposta/mensagem que você quer que a IA guarde.
-🔹 Autenticação JWT
 
-🔹 Deploy no Vercel
- (front) e Render
- ou Railway
- (back)
 
 
